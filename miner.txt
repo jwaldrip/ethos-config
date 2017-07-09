@@ -39,24 +39,14 @@ loc d2c33c bsmt1
 globalcore 2100
 
 #--- Asus Strix OC GTX 1060 6 GB ---
-# primary psu, monitor connected
-pwr 86.06.0E.00.0A 156
-mem 86.06.0E.00.0A 4700
+# 86.06.0E.00.0A
 
 #--- 5x Asus Dual OC GTX 1060 6GB ---
-# all on the secondary psu
-pwr 86.06.27.00.9B 120
-mem 86.06.27.00.9B 4600
+# 86.06.27.00.9B
 
 #--- MSI GTX 1060 6 GB ---
-# primary psu
-# connected via m.2 adapter
-pwr 86.06.0E.00.A4 140
-mem 86.06.0E.00.A4 4600
+# 86.06.0E.00.A4
 
 #--- EVGA GTX 1060 6 GB ---
-# primary psu
-# connected via m.2 adapter
-pwr 86.06.39.00.60 150
-mem 86.06.39.00.60 4600
+# 86.06.39.00.60
 
